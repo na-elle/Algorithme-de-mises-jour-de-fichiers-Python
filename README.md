@@ -17,4 +17,4 @@ Ce projet consiste à développer un algorithme en **Python** pour mettre à jou
 
 ## Fichier
 
-- [Algorithme de mises jour de fichier avec Python](https://github.com/na-elle/Algorithme_de_mises_jour_de_fichiers_Python/blob/90703af784dd15040a5b6154b3e8e3b8440307ac/Mettre%20%C3%A0%20jour%20un%20fichier%20%C3%A0%20l'aide%20d'un%20algorithme%20Python.pdf)
+- [Algorithme de mises jour d'un fichier avec Python](https://github.com/na-elle/Algorithme_de_mises_jour_de_fichiers_Python/blob/90703af784dd15040a5b6154b3e8e3b8440307ac/Mettre%20%C3%A0%20jour%20un%20fichier%20%C3%A0%20l'aide%20d'un%20algorithme%20Python.pdf)
